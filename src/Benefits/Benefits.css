@@ -1,0 +1,68 @@
+#benefits{
+    margin-top: 80px;
+    max-width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.benefit1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 45px;
+    margin-left: 50px;
+}
+.benefit1 img{
+    padding-top: 50px;
+    width: auto;
+    height: 400px;
+    padding-right: 12px;
+}
+.bf{
+    padding-left: 100px;
+}
+.bf h1{
+    font-size: xx-large;
+    font-weight: 700;
+}
+.para{
+    color: grey;
+    font-size: large;
+    padding-top: 10px;
+    
+}
+.para1{
+    color: grey ;
+    font-size: large;
+    padding-top: 10px;
+}
+.benefit2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    max-width: 90%;
+    margin-left: 100px;
+    gap: 120px;
+}
+.benefit2 img{
+    width: 590px;
+    height: auto;
+}
+.benefit2_content h1{
+    font-size: xx-large;
+    padding-bottom: 10px;
+}
+.benefit2_content .para2{
+    font-size: large;
+    padding-bottom: 10px;
+    color: grey;
+}
+.benefit2_content .para3{
+    font-size: large;
+    padding-bottom: 10px;
+    color: grey;
+}

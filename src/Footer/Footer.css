@@ -1,0 +1,13 @@
+.footer{
+    width: 100vw;
+    height: 3rem;
+    background-color: #202020;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    font-size: small;
+    margin-top: 30px;
+    max-width: 94.5rem;
+}
