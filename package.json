@@ -1,16 +1,16 @@
 {
   "name": "my-task",
-  "homepage": "https://shubham1159.github.io/color_tester",
+  "homepage": "https://shubham1159.github.io/color_tester/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
